@@ -47,7 +47,7 @@ Build a **classifier** to predict the presence of a sleep disorder using other f
 ## How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-science-portfolio.git
+   git clone https://github.com/luluhsu727/data-science-portfolio.git
    cd data-science-portfolio/sleep-health-project
    ```
 2. Install dependencies:
