@@ -12,7 +12,7 @@ This project explores the relationships between sleep, cardiovascular health, an
 
 ## Dataset Details
 ---------------
-**Source**: [Kaggle - Sleep Health Dataset]([link_to_dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/))  
+**Source**: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/?select=Sleep_health_and_lifestyle_dataset.csv
 **Original Dataset**: This synthetic dataset was created for this project and is based on real-world health metrics. The data is available on Kaggle and was processed for the purposes of this project.  
 
 **Number of records**: ~400 fictive persons  
