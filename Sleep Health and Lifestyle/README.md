@@ -11,22 +11,25 @@ This project explores the relationships between sleep, cardiovascular health, an
 - `outputs/` → Visualizations, reports, and final results
 
 ## Dataset Details
-- **Source:** Kaggle
-- **Number of records:** ~400 fictive persons
-- **Columns:**
-  - `Person ID`
-  - `Gender`
-  - `Age`
-  - `Occupation`
-  - `Sleep Duration` (hours per day)
-  - `Quality of Sleep` (1-10 subjective rating)
-  - `Physical Activity Level` (minutes per day)
-  - `Stress Level` (1-10 subjective rating)
-  - `BMI Category`
-  - `Blood Pressure` (systolic/diastolic)
-  - `Heart Rate` (beats per minute)
-  - `Daily Steps`
-  - `Sleep Disorder` (None, Insomnia, Sleep Apnea)
+---------------
+**Source**: [Kaggle - Sleep Health Dataset]([link_to_dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset/))  
+**Original Dataset**: This synthetic dataset was created for this project and is based on real-world health metrics. The data is available on Kaggle and was processed for the purposes of this project.  
+
+**Number of records**: ~400 fictive persons  
+**Columns**:
+- Person ID
+- Gender
+- Age
+- Occupation
+- Sleep Duration (hours per day)
+- Quality of Sleep (1-10 subjective rating)
+- Physical Activity Level (minutes per day)
+- Stress Level (1-10 subjective rating)
+- BMI Category
+- Blood Pressure (systolic/diastolic)
+- Heart Rate (beats per minute)
+- Daily Steps
+- Sleep Disorder (None, Insomnia, Sleep Apnea)
 
 ## Questions to Explore
 - Which factors contribute to a sleep disorder?
