@@ -5,7 +5,7 @@ This repository showcases my data science projects, including a variety of tasks
 - **Notebooks**: Jupyter notebooks with code and analysis
 - **Scripts**: Python scripts for automation and processing
 - **Models**: Trained machine learning models
-- **Outputs**: Results, visualizations, and reports
+- **Outputs**: Results, visualisations, and reports
 
 ### Projects:
 - **Project 1**: Predicting Sleep Disorders
