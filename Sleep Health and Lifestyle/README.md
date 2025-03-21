@@ -1,16 +1,16 @@
 # Sleep Health and Lifestyle
 
-## 📌 Project Overview
+## Project Overview
 This project explores the relationships between sleep, cardiovascular health, and lifestyle factors. Using a synthetic dataset containing sleep metrics, physical activity levels, and cardiovascular indicators, we aim to identify patterns that contribute to sleep disorders and overall well-being.
 
-## 📂 Project Structure
+## Project Structure
 - `data/` → Contains `data.csv`, the dataset used for analysis
 - `notebooks/` → Jupyter notebooks with exploratory data analysis (EDA) and model building
 - `scripts/` → Python scripts for data preprocessing and machine learning
 - `models/` → Saved machine learning models
 - `outputs/` → Visualizations, reports, and final results
 
-## 📊 Dataset Details
+## Dataset Details
 - **Source:** Kaggle
 - **Number of records:** ~400 fictive persons
 - **Columns:**
@@ -28,23 +28,23 @@ This project explores the relationships between sleep, cardiovascular health, an
   - `Daily Steps`
   - `Sleep Disorder` (None, Insomnia, Sleep Apnea)
 
-## 🚀 Key Questions to Explore
+## Questions to Explore
 - Which factors contribute to a sleep disorder?
 - Does increased physical activity improve sleep quality?
 - How does a sleep disorder affect subjective sleep quality?
 
-## 📊 Visualization Ideas
+## Visualisation
 - **Boxplot**: Show the distribution of sleep duration or sleep quality by occupation.
 - **Scatterplot**: Analyze the relationship between age and sleep duration, incorporating sleep disorder information.
 
-## 🔍 Project Scenario: Predicting Sleep Disorders
+## Project Scenario: Predicting Sleep Disorders
 ### Background
 A health insurance company wants to assess the likelihood of potential clients having a sleep disorder. This information could influence premium pricing decisions.
 
 ### Objective
 Build a **classifier** to predict the presence of a sleep disorder using other features in the dataset.
 
-## 🚀 How to Run This Project
+## How to Run This Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/data-science-portfolio.git
@@ -63,13 +63,13 @@ Build a **classifier** to predict the presence of a sleep disorder using other f
    python scripts/train_model.py
    ```
 
-## 📈 Technologies Used
+## Technologies Used
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn (for machine learning models)
 - Jupyter Notebook
 
-## 📢 Credits & Acknowledgments
+## Credits & Acknowledgments
 - Dataset Source: Kaggle
 - Inspired by real-world applications in health analytics
 
