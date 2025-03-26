@@ -7,8 +7,10 @@ This repository showcases my data science projects, including a variety of tasks
 - **Models**: Trained machine learning models
 - **Outputs**: Results, visualisations, and reports
 
-### Projects:
-- **Project 1**: Predicting Sleep Disorders
+### Current Projects:
+- **Project 1**: Fraud Detection Model
+- **Project 2**: Breast Cancer Detection Model
+- **Project 3**: Energy market data analysis
 
 ---
 
