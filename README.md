@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Project Portfolio
 
 This repository showcases my data science projects, including a variety of tasks like data analysis, machine learning model development, and visualization. Each project folder includes the following:
 - **Data**: Raw and processed data files
