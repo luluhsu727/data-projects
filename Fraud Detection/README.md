@@ -3,6 +3,8 @@
 ## Executive Summary
 To establish itself as the safest option in the U.S. credit card market, [Company Name] developed a machine learning model to detect fraudulent transactions. XGBoost was found to be the most effective model for balancing fraud detection accuracy and recall, prioritizing fraud detection while accepting some false positives for maximum security.
 
+For the source, please visit this page: https://www.kaggle.com/datasets/kartik2112/fraud-detection?utm_source=chatgpt.com
+
 ## Problem Overview
 Credit card fraud costs financial institutions billions each year. The challenge is to detect fraud effectively without blocking too many legitimate transactions. Our approach prioritizes fraud detection over avoiding false positives, in line with our risk-averse strategy.
 
