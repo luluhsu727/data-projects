@@ -31,7 +31,7 @@ We are specifically interested in posts with titles that begin with either **Ask
 
 
 Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just something interesting. Below are a few examples:
-![image](https://github.com/user-attachments/assets/b4560240-d072-4a33-a265-787a901eb34d)
+![image](https://github.com/user-attachments/assets/f00873bc-0c58-4c57-8bad-b2c6abf31eaf)
 
 
 We will compare these two types of posts to determine the following:
