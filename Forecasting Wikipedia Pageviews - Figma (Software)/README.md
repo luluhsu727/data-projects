@@ -7,4 +7,4 @@ This project aims to forecast the daily Wikipedia pageviews of the "Figma (softw
 * Fitting a time series forecasting model
 * Making and visualising predictions
 
-  * Source traffic where we predict the future traffic[https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-01&end=2022-08-23&pages=Figma_(software)]
+* Source traffic where we predict the future traffic[https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2022-01-01&end=2022-08-23&pages=Figma_(software)]
