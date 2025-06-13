@@ -27,10 +27,12 @@ Here are the first few rows of the dataset:
 
 
 We are specifically interested in posts with titles that begin with either **Ask HN** or **Show HN.** Users submit Ask HN posts to ask the Hacker News community a specific question. Below are a few examples:
-![image.png](attachment:f1411897-847c-43b7-afb7-98e76486f94c.png)
+![image](https://github.com/user-attachments/assets/bb9405b0-c5b9-4f2b-af1d-7ccd45c8a60d)
+
 
 Likewise, users submit Show HN posts to show the Hacker News community a project, product, or just something interesting. Below are a few examples:
-![image.png](attachment:bc430135-2d40-4bf9-a51d-0b3e8ef519c6.png)
+![image](https://github.com/user-attachments/assets/b4560240-d072-4a33-a265-787a901eb34d)
+
 
 We will compare these two types of posts to determine the following:
 
